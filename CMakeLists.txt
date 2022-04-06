@@ -8,3 +8,4 @@ endif ()
 # add subdirectories to the build
 add_subdirectory(uva263)
 add_subdirectory(uva10008)
+add_subdirectory(uva10954)
